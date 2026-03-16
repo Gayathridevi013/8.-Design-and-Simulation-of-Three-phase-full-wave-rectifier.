@@ -43,7 +43,10 @@ by going to Simulation ⇒ Start
 14.	Analyze and record your inference.
 
 ## Simulation
+<img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/ebfa20d0-0d49-472a-87fb-d40317b431a8" />
 
 ## Output
+<img width="1920" height="1080" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/fb34a458-260c-4e24-b200-c34930bf268f" />
 
 ## Result
+Thus the experiment has been simulated successfully on Matlab.
